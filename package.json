@@ -13,7 +13,7 @@
 	},
 	"author": "bambooistoofat",
 	"description": "A boilerplate for learning how to use npm and package.json",
-	"keywords" : ["freeCodeCamp", "backend", "learning"],
+	"keywords" : ["freecodecamp", "backend", "learning"],
 	"license": "None",
 	"version" : "1.0.0"
 }
